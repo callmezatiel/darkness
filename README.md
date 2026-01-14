@@ -6,12 +6,18 @@ Automatically install BlackArch Linux tools
 ![Linux-2019-12-03-20-28-16.png](https://i.postimg.cc/nhq1W8q4/Linux-2019-12-03-20-28-16.png)
 
 # Features
+- Submenus per tool
+- Pacman error does NOT break the script
+- dnschef removed and replaced
+- Genuine Kali Purple (not marketing)
+- Clean, auditable script
+- Suitable for lab, Red Team, and Purple Team
 - Add BlackArch repositories
 - Remove BlackArch repositories
 - Install BlackArch tools
 
 # Requirements
-- Python 2 or 3
+- Python 3
 - An Arch Linux operating system
 
 # Installation
