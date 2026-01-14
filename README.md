@@ -1,9 +1,8 @@
 # Darkness
 Automatically install BlackArch Linux tools
 
-![Linux-2019-12-03-19-57-47.png](https://i.postimg.cc/X730rWxh/Linux-2019-12-03-19-57-47.png)
+![Arch-Linux-Puro-2026-01-14-17-50-37.png](https://i.postimg.cc/NGTm5MgZ/Arch-Linux-Puro-2026-01-14-17-50-37.png)
 
-![Linux-2019-12-03-20-28-16.png](https://i.postimg.cc/nhq1W8q4/Linux-2019-12-03-20-28-16.png)
 
 # Features
 - Submenus per tool
@@ -23,9 +22,9 @@ Automatically install BlackArch Linux tools
 # Installation
 ```
 - sudo su
-- git clone https://github.com/callmezatiel/darkness && cp darkarch/darkness.py /usr/bin/darkness
+- git clone https://github.com/callmezatiel/darkness && cd darkarch/darkness.py /usr/bin/darkness
 - chmod +x /usr/bin/darkness
-- sudo darkness
+- sudo python3 darkness.py
 
 ```
 
